@@ -10,7 +10,7 @@ Whether you're here to explore examples of HTML, CSS, JavaScript, or more comple
 
 Projects Overview
 
-#MTA Connect Advocacy Project: A website dedicated to advocating for improved transportation services in NYC (details below).
+MTA Connect Advocacy Project: A website dedicated to advocating for improved transportation services in NYC (details below).
 
 MTA Connect: Advocating for Better Transit
 
